@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am Pubudu Jayawardana, Fullstack developer with DevOps capabilities. 
+I love to create stuff in the cloud and share my knowledge about them.
+
 <!--
 **pubudusj/pubudusj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
