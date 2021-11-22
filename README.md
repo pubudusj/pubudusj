@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📈 GitHub Stats
+
+![Pubudu's GitHub stats](https://github-readme-stats.vercel.app/api?username=pubudusj&theme=tokyonight&show_icons=true&line_height=27&count_private=true)
